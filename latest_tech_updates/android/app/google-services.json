@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071604232998",
+    "firebase_url": "https://techupdates-3a6b0.firebaseio.com",
+    "project_id": "techupdates-3a6b0",
+    "storage_bucket": "techupdates-3a6b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071604232998:android:989de75623e458d754c7e7",
+        "android_client_info": {
+          "package_name": "shubham.dsc.latest_tech_updates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071604232998-apmafciutvhcnhuqoj5jastr7rglfok5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shubham.dsc.latest_tech_updates",
+            "certificate_hash": "31a296292c92f78b06ec3ebf72f899e741f8cf54"
+          }
+        },
+        {
+          "client_id": "1071604232998-roqqhvjjkrhjpjdelm907f0d2b6e1lmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fPXjooI4r51o70Ibxe9I2gncSehGz2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071604232998-roqqhvjjkrhjpjdelm907f0d2b6e1lmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
